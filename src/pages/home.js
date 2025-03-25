@@ -8,7 +8,7 @@ export default function HomePage() {
   return (
     <>
       <Helmet>
-        <title> Dashboard: One</title>
+        <title> Home </title>
       </Helmet>
 
       <HomeView />
